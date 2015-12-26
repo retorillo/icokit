@@ -1,0 +1,18 @@
+{
+  "name": "icokit",
+  "version": "0.1.0",
+  "description": "Commandline toolkit to handle Windows icon files(*.ICO)",
+  "scripts": {
+    "test": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/retorillo/icokit.git"
+  },
+  "author": "retorillo",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-watch": "^4.3.5"
+  }
+}
